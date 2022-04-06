@@ -4,7 +4,7 @@ import (
 	"errors"
 	"log"
 
-	"github.com/luizcalazans16/imersao-full-cycle/codepix/domain/model"
+	"github.com/luizcalazans16/imersao-full-cycle/codepix-go/domain/model"
 )
 
 type TransactionUseCase struct {
